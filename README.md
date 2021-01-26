@@ -1,6 +1,6 @@
 # PeepSo Turbo
 
-PeepSo turbo improves performance and the potential to also improve SEO ranking by preventing unneded Javascript and CSS from loading for guests and search engines.
+PeepSo turbo improves performance and the potential to also improve SEO ranking by preventing unneeded Javascript and CSS from loading for guests and search engines.
 
 ## Installation
 
