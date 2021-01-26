@@ -1,5 +1,9 @@
 # PeepSo Turbo
 
+PeepSo turbo improves performance and the potential to also improve SEO ranking by preventing unneded Javascript and CSS from loading for guests and search engines.
+
+## Installation
+
 To use the plugin, create the /wp-content/plugins/peepso-turbo directory and upload the peepso-turbo.php file. Then activate the plugin in WordPress.
 
 The code is shared with the hope that it will be useful, but with no guarantees nor support. Make sure you test that all the functionality needed for guests works and it's not being affected by the plugin.
