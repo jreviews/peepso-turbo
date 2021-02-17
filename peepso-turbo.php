@@ -2,7 +2,7 @@
 /* Plugin Name: PeepSo Turbo
 Plugin URI: https://www.jreviews.com
 Description: Make PeepSo fly for search engines and guests by disabling unnecessary js/css
-Version: 1.1.2
+Version: 1.1.3
 Author: ClickFWD
 Author URI: https://www.jreviews.com/
 */
