@@ -98,10 +98,6 @@ function peepso_turbo_dequeue_css()
     wp_dequeue_style('wp-block-library-theme');
     wp_dequeue_style('peepso-fileupload');
 
-    // Unload PeepSo Icons because they are also loaded by Gecko
-    wp_dequeue_style('peepso-icons-new');
-    // wp_dequeue_style('gecko-icons-css');
-
     if (peepso_turbo_is_stream_page() || peepso_turbo_is_remove_everything_page()) {
         wp_dequeue_style('peepso-datepicker');
     }
