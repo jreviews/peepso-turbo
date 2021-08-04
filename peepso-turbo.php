@@ -2,7 +2,7 @@
 /* Plugin Name: PeepSo Turbo
 Plugin URI: https://www.jreviews.com
 Description: Make PeepSo fly for search engines and guests by disabling unnecessary js/css
-Version: 1.1.3
+Version: 1.1.4
 Author: ClickFWD
 Author URI: https://www.jreviews.com/
 */
@@ -118,7 +118,7 @@ function peepso_turbo_get_exclude_scripts_stream() {
         // 'peepso-window',
         'wp-embed',
         'backbone',
-        'wp-polyfill',
+        // 'wp-polyfill', // Preventing it from loading breaks the JReviews calendar widget
         'wp-api',
         'peepso-chat',
         'peepso-member',
